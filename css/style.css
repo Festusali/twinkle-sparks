@@ -2415,6 +2415,15 @@ section.our_team_wrap .team_member{margin-bottom: 20px; margin-left: auto; margi
     min-height: 32px;
 }
 
+.service-modes .card {
+    border-radius: 1.5rem;
+    border: 2px solid #28a745;
+}
+.service-modes .card:hover {
+    background-color: #28a745;
+    color: #000;
+}
+
 @media (min-width: 768px) {
     .tp-banner ul .caption a {
         color: #fff !important;
